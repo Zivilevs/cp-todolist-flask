@@ -1,0 +1,4 @@
+some work on app:
+
+N.B this is a full stack application
+to keep track of my tasks, expand db : time it was added, time it was closed, do not delete but arquive,
